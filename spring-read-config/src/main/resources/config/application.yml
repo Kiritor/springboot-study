@@ -1,0 +1,15 @@
+spring:
+  messages:
+    encoding: UTF-8
+
+## 自定义配置
+my-profile:
+  name: 子梁
+  email: 1406754158@qq.com
+
+lib:
+  location: 重庆
+  books:
+  - id: 1
+    name: 天才基本法
+    description: 二十二岁的林朝夕在父亲确诊阿尔茨海默病这天，得知自己暗恋多年的校园男神裴之即将出国深造的消息——对方考取的学校，恰是父亲当年为她放弃的那所。
